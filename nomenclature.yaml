@@ -6,3 +6,5 @@ definitions:
     repository: common-definitions
   region:
     repository: common-definitions
+mappings:
+  repository: common-definitions
