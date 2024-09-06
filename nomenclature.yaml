@@ -1,3 +1,7 @@
+dimensions:
+  - region
+  - variable
+  - scenario
 repositories:
   common-definitions:
     url: https://github.com/IAMconsortium/common-definitions.git/
