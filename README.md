@@ -1,5 +1,6 @@
 # Workflow for the SSP-ScenarioMIP scenario submission
 
+
 Copyright 2022-2024 IIASA
 
 [![Code style: ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/charliermarsh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
