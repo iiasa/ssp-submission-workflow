@@ -9,10 +9,18 @@ Copyright 2022-2024 IIASA
 
 This repository contains the workflow and configuration for the SSP-ScenarioMIP submission process starting in autumn 2024.
 
-### Project nomenclature and Model registration
+> [!TIP]
+> For *users not comfortable working with GitHub repositories and yaml files*,
+> the definitions for this project are available for download as an xlsx spreadsheet
+> at https://files.ece.iiasa.ac.at/ssp-submission/ssp-submission-template.xlsx.
 
-This projects uses the list of variables and region definitions/mappings 
-from the https://github.com/iamconsortium/common-definitions project.
+### Project nomenclature and model registration
+
+This projects uses the variables region definitions from the
+https://github.com/iamconsortium/common-definitions project.
+
+The scenario names combine the SSP socio-economic assumptions and the 
+climate ambition (i.e., emission pathways) according to the ScenarioMIP protocol (2024).
 
 ### Workflow
 
