@@ -30,21 +30,29 @@ def main(df: pyam.IamDataFrame) -> pyam.IamDataFrame:
 
     # Run the validation and region-processing
     dsd = DataStructureDefinition(here / "definitions")
-    region_processor = RegionProcessor.from_directory(
-        path=here / "mappings",
-        dsd=dsd,
+    processed_df = process(
+        df,
+        dsd,
+        processor=RegionProcessor.from_directory(
+            path=here / "mappings",
+            dsd=dsd,
+        ),
     )
     if FOUND_MAGICC:
         magicc_processor = MAGICCProcessor(
             run_type="complete",
             magicc_worker_number=8,
+            magicc_variables=[
+                "*Atmospheric concentrations*"
+                "*Exceedance probability*"
+                "*Effective radiative forcing*"
+                "*Surface temperature*",
+                "*Infilled*",
+                "*Harmonized*",
+            ],
         )
         try:
-            return process(
-                df,
-                dsd,
-                processor=[region_processor, magicc_processor],
-            )
+            return magicc_processor.apply(processed_df)
         except Exception as e:
             log.warning(
                 (
@@ -52,4 +60,4 @@ def main(df: pyam.IamDataFrame) -> pyam.IamDataFrame:
                     f"details: {e}"
                 )
             )
-    return process(df, dsd, processor=region_processor)
+    return processed_df
