@@ -1,0 +1,279 @@
+- WITCH 6.0:
+  - WITCH 6.0|Brazil:
+      iso3_codes: BRA
+  - WITCH 6.0|Canada:
+      iso3_codes:
+      - CAN
+      - SPM
+  - WITCH 6.0|China:
+      iso3_codes:
+      - CHN
+      - HKG
+      - MAC
+      - TWN
+  - WITCH 6.0|Europe (EU+EFTA+Balkan Countries and Turkey):
+      iso3_codes:
+      - BGR
+      - CYP
+      - CZE
+      - EST
+      - HUN
+      - LTU
+      - LVA
+      - POL
+      - ROU
+      - SVK
+      - SVN
+      - MLT
+      - HRV
+      - AUT
+      - BEL
+      - DEU
+      - DNK
+      - ESP
+      - FIN
+      - FRA
+      - GBR
+      - GRC
+      - IRL
+      - ITA
+      - LUX
+      - NLD
+      - PRT
+      - SWE
+      - LIE
+      - NOR
+      - CHE
+      - GRL
+      - ISL
+      - FRO
+      - ALA
+      - AND
+      - GGY
+      - GIB
+      - IMN
+      - JEY
+      - MCO
+      - SJM
+      - SMR
+      - VAT
+      - BIH
+      - ALB
+      - MKD
+      - MNE
+      - SRB
+  - WITCH 6.0|India:
+      iso3_codes: IND
+  - WITCH 6.0|Indonesia:
+      iso3_codes: IDN
+  - WITCH 6.0|Japan and Korea:
+      iso3_codes:
+      - JPN
+      - KOR
+      - PRK
+  - WITCH 6.0|Latin America and the Caribbean:
+      iso3_codes:
+      - ATA
+      - BMU
+      - SGS
+      - TCA
+      - VGB
+      - VIR
+      - ABW
+      - AIA
+      - ARG
+      - ATG
+      - BES
+      - BHS
+      - BLM
+      - BLZ
+      - BOL
+      - BRB
+      - CHL
+      - COL
+      - CRI
+      - CUB
+      - CUW
+      - CYM
+      - DMA
+      - DOM
+      - ECU
+      - FLK
+      - GLP
+      - GRD
+      - GTM
+      - GUF
+      - GUY
+      - HND
+      - HTI
+      - JAM
+      - KNA
+      - LCA
+      - MAF
+      - MSR
+      - MTQ
+      - NIC
+      - PAN
+      - PER
+      - PRI
+      - PRY
+      - SLV
+      - SUR
+      - SXM
+      - TTO
+      - URY
+      - VCT
+      - VEN
+  - WITCH 6.0|Middle East and North Africa:
+      iso3_codes:
+      - ARE
+      - BHR
+      - DZA
+      - EGY
+      - ESH
+      - IRN
+      - IRQ
+      - ISR
+      - JOR
+      - KWT
+      - LBN
+      - LBY
+      - MAR
+      - OMN
+      - PSE
+      - QAT
+      - SAU
+      - SYR
+      - TUN
+      - YEM
+  - WITCH 6.0|Mexico:
+      iso3_codes: MEX
+  - WITCH 6.0|Australia, New Zealand, and Oceania islands:
+      iso3_codes:
+      - NZL
+      - AUS
+      - CXR
+      - COK
+      - HMD
+      - NFK
+      - NIU
+      - NRU
+      - PCN
+      - TKL
+      - TUV
+      - UMI
+      - WLF
+      - FJI
+      - PNG
+      - FSM
+      - GUM
+      - ASM
+      - TLS
+      - PYF
+      - KIR
+      - MNP
+      - MHL
+      - NCL
+      - PLW
+      - WSM
+      - SLB
+      - TON
+      - VUT
+  - WITCH 6.0|South Asia:
+      iso3_codes:
+      - AFG
+      - BGD
+      - BTN
+      - LKA
+      - MDV
+      - NPL
+      - PAK
+  - WITCH 6.0|South East Asia:
+      iso3_codes:
+      - BRN
+      - CCK
+      - KHM
+      - LAO
+      - MMR
+      - MYS
+      - PHL
+      - SGP
+      - THA
+      - VNM
+  - WITCH 6.0|South Africa:
+      iso3_codes: ZAF
+  - WITCH 6.0|Sub Saharan Africa:
+      iso3_codes:
+      - DJI
+      - IOT
+      - BVT
+      - ATF
+      - AGO
+      - BEN
+      - BWA
+      - BFA
+      - BDI
+      - CMR
+      - CPV
+      - CAF
+      - TCD
+      - COM
+      - COG
+      - COD
+      - CIV
+      - GNQ
+      - ERI
+      - ETH
+      - GAB
+      - GMB
+      - GHA
+      - GIN
+      - GNB
+      - KEN
+      - LSO
+      - LBR
+      - MDG
+      - MWI
+      - MLI
+      - MRT
+      - MUS
+      - MYT
+      - MOZ
+      - NAM
+      - NER
+      - NGA
+      - REU
+      - RWA
+      - STP
+      - SEN
+      - SYC
+      - SHN
+      - SLE
+      - SOM
+      - SSD
+      - SDN
+      - SWZ
+      - TZA
+      - TGO
+      - UGA
+      - ZMB
+      - ZWE
+  - WITCH 6.0|Non-EU Eastern European and Transition Countries:
+      iso3_codes:
+      - MNG
+      - ARM
+      - AZE
+      - BLR
+      - GEO
+      - KAZ
+      - KGZ
+      - MDA
+      - RUS
+      - TJK
+      - TUR
+      - TKM
+      - UKR
+      - UZB
+  - WITCH 6.0|United States of America:
+      iso3_codes: USA
+
