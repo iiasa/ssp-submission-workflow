@@ -43,12 +43,12 @@ def main(df: pyam.IamDataFrame) -> pyam.IamDataFrame:
             run_type="complete",
             magicc_worker_number=8,
             magicc_variables=[
-                "AR6 climate diagnostics|Atmospheric Concentrations*"
-                "AR6 climate diagnostics|Exceedance Probability*"
-                "AR6 climate diagnostics|Effective Radiative Forcing*"
-                "AR6 climate diagnostics|Surface Temperature*",
-                "AR6 climate diagnostics|Infilled*",
-                "AR6 climate diagnostics|Harmonized*",
+                "*Atmospheric Concentrations*",
+                "*Exceedance Probability*",
+                "*Effective Radiative Forcing*",
+                "*Surface Temperature*",
+                "*Infilled*",
+                "*Harmonized*",
             ],
         )
         try:
