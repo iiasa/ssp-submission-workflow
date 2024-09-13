@@ -43,10 +43,10 @@ def main(df: pyam.IamDataFrame) -> pyam.IamDataFrame:
             run_type="complete",
             magicc_worker_number=8,
             magicc_variables=[
-                "*Atmospheric concentrations*"
-                "*Exceedance probability*"
-                "*Effective radiative forcing*"
-                "*Surface temperature*",
+                "*Atmospheric Concentrations*"
+                "*Exceedance Probability*"
+                "*Effective Radiative Forcing*"
+                "*Surface Temperature*",
                 "*Infilled*",
                 "*Harmonized*",
             ],
