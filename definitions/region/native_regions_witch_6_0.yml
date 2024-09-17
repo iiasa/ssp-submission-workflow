@@ -1,279 +1,279 @@
 - WITCH 6.0:
   - WITCH 6.0|Brazil:
-      iso3_codes: BRA
+      countries: Brazil
   - WITCH 6.0|Canada:
-      iso3_codes:
-      - CAN
-      - SPM
+      countries:
+      - Canada
+      - St. Pierre & Miquelon
   - WITCH 6.0|China:
-      iso3_codes:
-      - CHN
-      - HKG
-      - MAC
-      - TWN
+      countries:
+      - China
+      - Hong Kong SAR China
+      - Macao SAR China
+      - Taiwan
   - WITCH 6.0|Europe (EU+EFTA+Balkan Countries and Turkey):
-      iso3_codes:
-      - BGR
-      - CYP
-      - CZE
-      - EST
-      - HUN
-      - LTU
-      - LVA
-      - POL
-      - ROU
-      - SVK
-      - SVN
-      - MLT
-      - HRV
-      - AUT
-      - BEL
-      - DEU
-      - DNK
-      - ESP
-      - FIN
-      - FRA
-      - GBR
-      - GRC
-      - IRL
-      - ITA
-      - LUX
-      - NLD
-      - PRT
-      - SWE
-      - LIE
-      - NOR
-      - CHE
-      - GRL
-      - ISL
-      - FRO
-      - ALA
-      - AND
-      - GGY
-      - GIB
-      - IMN
-      - JEY
-      - MCO
-      - SJM
-      - SMR
-      - VAT
-      - BIH
-      - ALB
-      - MKD
-      - MNE
-      - SRB
+      countries:
+      - Bulgaria
+      - Cyprus
+      - Czechia
+      - Estonia
+      - Hungary
+      - Lithuania
+      - Latvia
+      - Poland
+      - Romania
+      - Slovakia
+      - Slovenia
+      - Malta
+      - Croatia
+      - Austria
+      - Belgium
+      - Germany
+      - Denmark
+      - Spain
+      - Finland
+      - France
+      - United Kingdom
+      - Greece
+      - Ireland
+      - Italy
+      - Luxembourg
+      - Netherlands
+      - Portugal
+      - Sweden
+      - Liechtenstein
+      - Norway
+      - Switzerland
+      - Greenland
+      - Iceland
+      - Faroe Islands
+      - Åland Islands
+      - Andorra
+      - Guernsey
+      - Gibraltar
+      - Isle of Man
+      - Jersey
+      - Monaco
+      - Svalbard & Jan Mayen
+      - San Marino
+      - Vatican City
+      - Bosnia & Herzegovina
+      - Albania
+      - North Macedonia
+      - Montenegro
+      - Serbia
   - WITCH 6.0|India:
-      iso3_codes: IND
+      countries: India
   - WITCH 6.0|Indonesia:
-      iso3_codes: IDN
+      countries: Indonesia
   - WITCH 6.0|Japan and Korea:
-      iso3_codes:
-      - JPN
-      - KOR
-      - PRK
+      countries:
+      - Japan
+      - South Korea
+      - North Korea
   - WITCH 6.0|Latin America and the Caribbean:
-      iso3_codes:
-      - ATA
-      - BMU
-      - SGS
-      - TCA
-      - VGB
-      - VIR
-      - ABW
-      - AIA
-      - ARG
-      - ATG
-      - BES
-      - BHS
-      - BLM
-      - BLZ
-      - BOL
-      - BRB
-      - CHL
-      - COL
-      - CRI
-      - CUB
-      - CUW
-      - CYM
-      - DMA
-      - DOM
-      - ECU
-      - FLK
-      - GLP
-      - GRD
-      - GTM
-      - GUF
-      - GUY
-      - HND
-      - HTI
-      - JAM
-      - KNA
-      - LCA
-      - MAF
-      - MSR
-      - MTQ
-      - NIC
-      - PAN
-      - PER
-      - PRI
-      - PRY
-      - SLV
-      - SUR
-      - SXM
-      - TTO
-      - URY
-      - VCT
-      - VEN
+      countries:
+      - Antarctica
+      - Bermuda
+      - South Georgia & South Sandwich Islands
+      - Turks & Caicos Islands
+      - British Virgin Islands
+      - U.S. Virgin Islands
+      - Aruba
+      - Anguilla
+      - Argentina
+      - Antigua & Barbuda
+      - Caribbean Netherlands
+      - Bahamas
+      - St. Barthélemy
+      - Belize
+      - Bolivia
+      - Barbados
+      - Chile
+      - Colombia
+      - Costa Rica
+      - Cuba
+      - Curaçao
+      - Cayman Islands
+      - Dominica
+      - Dominican Republic
+      - Ecuador
+      - Falkland Islands
+      - Guadeloupe
+      - Grenada
+      - Guatemala
+      - French Guiana
+      - Guyana
+      - Honduras
+      - Haiti
+      - Jamaica
+      - St. Kitts & Nevis
+      - St. Lucia
+      - Saint Martin (French part)
+      - Montserrat
+      - Martinique
+      - Nicaragua
+      - Panama
+      - Peru
+      - Puerto Rico
+      - Paraguay
+      - El Salvador
+      - Suriname
+      - Sint Maarten
+      - Trinidad & Tobago
+      - Uruguay
+      - St. Vincent & Grenadines
+      - Venezuela
   - WITCH 6.0|Middle East and North Africa:
-      iso3_codes:
-      - ARE
-      - BHR
-      - DZA
-      - EGY
-      - ESH
-      - IRN
-      - IRQ
-      - ISR
-      - JOR
-      - KWT
-      - LBN
-      - LBY
-      - MAR
-      - OMN
-      - PSE
-      - QAT
-      - SAU
-      - SYR
-      - TUN
-      - YEM
+      countries:
+      - United Arab Emirates
+      - Bahrain
+      - Algeria
+      - Egypt
+      - Western Sahara
+      - Iran
+      - Iraq
+      - Israel
+      - Jordan
+      - Kuwait
+      - Lebanon
+      - Libya
+      - Morocco
+      - Oman
+      - Palestinian Territories
+      - Qatar
+      - Saudi Arabia
+      - Syria
+      - Tunisia
+      - Yemen
   - WITCH 6.0|Mexico:
-      iso3_codes: MEX
+      countries: Mexico
   - WITCH 6.0|Australia, New Zealand, and Oceania islands:
-      iso3_codes:
-      - NZL
-      - AUS
-      - CXR
-      - COK
-      - HMD
-      - NFK
-      - NIU
-      - NRU
-      - PCN
-      - TKL
-      - TUV
-      - UMI
-      - WLF
-      - FJI
-      - PNG
-      - FSM
-      - GUM
-      - ASM
-      - TLS
-      - PYF
-      - KIR
-      - MNP
-      - MHL
-      - NCL
-      - PLW
-      - WSM
-      - SLB
-      - TON
-      - VUT
+      countries:
+      - New Zealand
+      - Australia
+      - Christmas Island
+      - Cook Islands
+      - Heard & McDonald Islands
+      - Norfolk Island
+      - Niue
+      - Nauru
+      - Pitcairn Islands
+      - Tokelau
+      - Tuvalu
+      - United States Minor Outlying Islands (the)
+      - Wallis & Futuna
+      - Fiji
+      - Papua New Guinea
+      - Micronesia (Federated States of)
+      - Guam
+      - American Samoa
+      - Timor-Leste
+      - French Polynesia
+      - Kiribati
+      - Northern Mariana Islands
+      - Marshall Islands
+      - New Caledonia
+      - Palau
+      - Samoa
+      - Solomon Islands
+      - Tonga
+      - Vanuatu
   - WITCH 6.0|South Asia:
-      iso3_codes:
-      - AFG
-      - BGD
-      - BTN
-      - LKA
-      - MDV
-      - NPL
-      - PAK
+      countries:
+      - Afghanistan
+      - Bangladesh
+      - Bhutan
+      - Sri Lanka
+      - Maldives
+      - Nepal
+      - Pakistan
   - WITCH 6.0|South East Asia:
-      iso3_codes:
-      - BRN
-      - CCK
-      - KHM
-      - LAO
-      - MMR
-      - MYS
-      - PHL
-      - SGP
-      - THA
-      - VNM
+      countries:
+      - Brunei
+      - Cocos (Keeling) Islands
+      - Cambodia
+      - Laos
+      - Myanmar (Burma)
+      - Malaysia
+      - Philippines
+      - Singapore
+      - Thailand
+      - Vietnam
   - WITCH 6.0|South Africa:
-      iso3_codes: ZAF
+      countries: South Africa
   - WITCH 6.0|Sub Saharan Africa:
-      iso3_codes:
-      - DJI
-      - IOT
-      - BVT
-      - ATF
-      - AGO
-      - BEN
-      - BWA
-      - BFA
-      - BDI
-      - CMR
-      - CPV
-      - CAF
-      - TCD
-      - COM
-      - COG
-      - COD
-      - CIV
-      - GNQ
-      - ERI
-      - ETH
-      - GAB
-      - GMB
-      - GHA
-      - GIN
-      - GNB
-      - KEN
-      - LSO
-      - LBR
-      - MDG
-      - MWI
-      - MLI
-      - MRT
-      - MUS
-      - MYT
-      - MOZ
-      - NAM
-      - NER
-      - NGA
-      - REU
-      - RWA
-      - STP
-      - SEN
-      - SYC
-      - SHN
-      - SLE
-      - SOM
-      - SSD
-      - SDN
-      - SWZ
-      - TZA
-      - TGO
-      - UGA
-      - ZMB
-      - ZWE
+      countries:
+      - Djibouti
+      - British Indian Ocean Territory
+      - Bouvet Island
+      - French Southern Territories
+      - Angola
+      - Benin
+      - Botswana
+      - Burkina Faso
+      - Burundi
+      - Cameroon
+      - Cape Verde
+      - Central African Republic
+      - Chad
+      - Comoros
+      - Congo - Brazzaville
+      - Congo - Kinshasa
+      - Côte d’Ivoire
+      - Equatorial Guinea
+      - Eritrea
+      - Ethiopia
+      - Gabon
+      - Gambia
+      - Ghana
+      - Guinea
+      - Guinea-Bissau
+      - Kenya
+      - Lesotho
+      - Liberia
+      - Madagascar
+      - Malawi
+      - Mali
+      - Mauritania
+      - Mauritius
+      - Mayotte
+      - Mozambique
+      - Namibia
+      - Niger
+      - Nigeria
+      - Réunion
+      - Rwanda
+      - São Tomé & Príncipe
+      - Senegal
+      - Seychelles
+      - St. Helena
+      - Sierra Leone
+      - Somalia
+      - South Sudan
+      - Sudan
+      - Eswatini
+      - Tanzania
+      - Togo
+      - Uganda
+      - Zambia
+      - Zimbabwe
   - WITCH 6.0|Non-EU Eastern European and Transition Countries:
-      iso3_codes:
-      - MNG
-      - ARM
-      - AZE
-      - BLR
-      - GEO
-      - KAZ
-      - KGZ
-      - MDA
-      - RUS
-      - TJK
-      - TUR
-      - TKM
-      - UKR
-      - UZB
+      countries:
+      - Mongolia
+      - Armenia
+      - Azerbaijan
+      - Belarus
+      - Georgia
+      - Kazakhstan
+      - Kyrgyzstan
+      - Moldova
+      - Russia
+      - Tajikistan
+      - Turkey
+      - Turkmenistan
+      - Ukraine
+      - Uzbekistan
   - WITCH 6.0|United States of America:
-      iso3_codes: USA
+      countries: United States
 
