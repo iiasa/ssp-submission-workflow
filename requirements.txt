@@ -1,3 +1,2 @@
 pyam-iamc >= 2.1  # the `pyam` package is released on pypi under this name
 nomenclature-iamc
-climate-processor @ git+https://github.com/iiasa/climate-processor
