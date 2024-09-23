@@ -1,3 +1,6 @@
 - "{SSP} - {ScenarioMIP}":
     description: "{SSP} combined with '{ScenarioMIP}' climate policy assumptions
       following the ScenarioMIP protocol"
+- "{SSP} - {ScenarioMIP}_{Option}":
+    description: "{SSP} combined with '{ScenarioMIP}' Option {Option} climate policy
+      assumptions following the ScenarioMIP protocol"
