@@ -5,12 +5,12 @@
   - WITCH 6.0|Canada:
       countries:
       - Canada
-      - St. Pierre & Miquelon
+      - Saint Pierre and Miquelon
   - WITCH 6.0|China:
       countries:
       - China
-      - Hong Kong SAR China
-      - Macao SAR China
+      - Hong Kong
+      - Macao
       - Taiwan
   - WITCH 6.0|Europe (EU+EFTA+Balkan Countries and Turkey):
       countries:
@@ -55,10 +55,10 @@
       - Isle of Man
       - Jersey
       - Monaco
-      - Svalbard & Jan Mayen
+      - Svalbard and Jan Mayen
       - San Marino
       - Vatican City
-      - Bosnia & Herzegovina
+      - Bosnia and Herzegovina
       - Albania
       - North Macedonia
       - Montenegro
@@ -78,17 +78,17 @@
       countries:
       - Antarctica
       - Bermuda
-      - South Georgia & South Sandwich Islands
-      - Turks & Caicos Islands
+      - South Georgia and the South Sandwich Islands
+      - Turks and Caicos Islands
       - British Virgin Islands
-      - U.S. Virgin Islands
+      - United States Virgin Islands
       - Aruba
       - Anguilla
       - Argentina
-      - Antigua & Barbuda
-      - Caribbean Netherlands
+      - Antigua and Barbuda
+      - Bonaire, Sint Eustatius and Saba
       - Bahamas
-      - St. Barthélemy
+      - Saint Barthélemy
       - Belize
       - Bolivia
       - Barbados
@@ -110,8 +110,8 @@
       - Honduras
       - Haiti
       - Jamaica
-      - St. Kitts & Nevis
-      - St. Lucia
+      - Saint Kitts and Nevis
+      - Saint Lucia
       - Saint Martin (French part)
       - Montserrat
       - Martinique
@@ -122,10 +122,10 @@
       - Paraguay
       - El Salvador
       - Suriname
-      - Sint Maarten
-      - Trinidad & Tobago
+      - Sint Maarten (Dutch part)
+      - Trinidad and Tobago
       - Uruguay
-      - St. Vincent & Grenadines
+      - Saint Vincent and Grenadines
       - Venezuela
   - WITCH 6.0|Middle East and North Africa:
       countries:
@@ -143,7 +143,7 @@
       - Libya
       - Morocco
       - Oman
-      - Palestinian Territories
+      - Palestine
       - Qatar
       - Saudi Arabia
       - Syria
@@ -158,7 +158,7 @@
       - Australia
       - Christmas Island
       - Cook Islands
-      - Heard & McDonald Islands
+      - Heard Island and McDonald Islands
       - Norfolk Island
       - Niue
       - Nauru
@@ -166,10 +166,10 @@
       - Tokelau
       - Tuvalu
       - United States Minor Outlying Islands (the)
-      - Wallis & Futuna
+      - Wallis and Futuna
       - Fiji
       - Papua New Guinea
-      - Micronesia (Federated States of)
+      - Micronesia
       - Guam
       - American Samoa
       - Timor-Leste
@@ -198,12 +198,12 @@
       - Cocos (Keeling) Islands
       - Cambodia
       - Laos
-      - Myanmar (Burma)
+      - Myanmar
       - Malaysia
       - Philippines
       - Singapore
       - Thailand
-      - Vietnam
+      - Viet Nam
   - WITCH 6.0|South Africa:
       countries:
       - South Africa
@@ -223,9 +223,9 @@
       - Central African Republic
       - Chad
       - Comoros
-      - Congo - Brazzaville
-      - Congo - Kinshasa
-      - Côte d’Ivoire
+      - Congo
+      - Democratic Republic of the Congo
+      - Côte d'Ivoire
       - Equatorial Guinea
       - Eritrea
       - Ethiopia
@@ -249,10 +249,10 @@
       - Nigeria
       - Réunion
       - Rwanda
-      - São Tomé & Príncipe
+      - Sao Tome and Principe
       - Senegal
       - Seychelles
-      - St. Helena
+      - Saint Helena, Ascension and Tristan da Cunha
       - Sierra Leone
       - Somalia
       - South Sudan
