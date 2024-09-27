@@ -1,6 +1,7 @@
 - WITCH 6.0:
   - WITCH 6.0|Brazil:
-      countries: Brazil
+      countries:
+      - Brazil
   - WITCH 6.0|Canada:
       countries:
       - Canada
@@ -63,9 +64,11 @@
       - Montenegro
       - Serbia
   - WITCH 6.0|India:
-      countries: India
+      countries:
+      - India
   - WITCH 6.0|Indonesia:
-      countries: Indonesia
+      countries:
+      - Indonesia
   - WITCH 6.0|Japan and Korea:
       countries:
       - Japan
@@ -147,7 +150,8 @@
       - Tunisia
       - Yemen
   - WITCH 6.0|Mexico:
-      countries: Mexico
+      countries:
+      - Mexico
   - WITCH 6.0|Australia, New Zealand, and Oceania islands:
       countries:
       - New Zealand
@@ -201,7 +205,8 @@
       - Thailand
       - Vietnam
   - WITCH 6.0|South Africa:
-      countries: South Africa
+      countries:
+      - South Africa
   - WITCH 6.0|Sub Saharan Africa:
       countries:
       - Djibouti
@@ -275,5 +280,6 @@
       - Ukraine
       - Uzbekistan
   - WITCH 6.0|United States of America:
-      countries: United States
+      countries:
+      - United States
 
