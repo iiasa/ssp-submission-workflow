@@ -1,15 +1,16 @@
 - WITCH 6.0:
   - WITCH 6.0|Brazil:
-      countries: Brazil
+      countries:
+      - Brazil
   - WITCH 6.0|Canada:
       countries:
       - Canada
-      - St. Pierre & Miquelon
+      - Saint Pierre and Miquelon
   - WITCH 6.0|China:
       countries:
       - China
-      - Hong Kong SAR China
-      - Macao SAR China
+      - Hong Kong
+      - Macao
       - Taiwan
   - WITCH 6.0|Europe (EU+EFTA+Balkan Countries and Turkey):
       countries:
@@ -54,18 +55,20 @@
       - Isle of Man
       - Jersey
       - Monaco
-      - Svalbard & Jan Mayen
+      - Svalbard and Jan Mayen
       - San Marino
-      - Vatican City
-      - Bosnia & Herzegovina
+      - Vatican
+      - Bosnia and Herzegovina
       - Albania
       - North Macedonia
       - Montenegro
       - Serbia
   - WITCH 6.0|India:
-      countries: India
+      countries:
+      - India
   - WITCH 6.0|Indonesia:
-      countries: Indonesia
+      countries:
+      - Indonesia
   - WITCH 6.0|Japan and Korea:
       countries:
       - Japan
@@ -75,17 +78,17 @@
       countries:
       - Antarctica
       - Bermuda
-      - South Georgia & South Sandwich Islands
-      - Turks & Caicos Islands
+      - South Georgia and the South Sandwich Islands
+      - Turks and Caicos Islands
       - British Virgin Islands
-      - U.S. Virgin Islands
+      - United States Virgin Islands
       - Aruba
       - Anguilla
       - Argentina
-      - Antigua & Barbuda
-      - Caribbean Netherlands
+      - Antigua and Barbuda
+      - Bonaire, Sint Eustatius and Saba
       - Bahamas
-      - St. Barthélemy
+      - Saint Barthélemy
       - Belize
       - Bolivia
       - Barbados
@@ -98,7 +101,7 @@
       - Dominica
       - Dominican Republic
       - Ecuador
-      - Falkland Islands
+      - Falkland Islands (Malvinas)
       - Guadeloupe
       - Grenada
       - Guatemala
@@ -107,8 +110,8 @@
       - Honduras
       - Haiti
       - Jamaica
-      - St. Kitts & Nevis
-      - St. Lucia
+      - Saint Kitts and Nevis
+      - Saint Lucia
       - Saint Martin (French part)
       - Montserrat
       - Martinique
@@ -119,10 +122,10 @@
       - Paraguay
       - El Salvador
       - Suriname
-      - Sint Maarten
-      - Trinidad & Tobago
+      - Sint Maarten (Dutch part)
+      - Trinidad and Tobago
       - Uruguay
-      - St. Vincent & Grenadines
+      - Saint Vincent and the Grenadines
       - Venezuela
   - WITCH 6.0|Middle East and North Africa:
       countries:
@@ -140,32 +143,33 @@
       - Libya
       - Morocco
       - Oman
-      - Palestinian Territories
+      - Palestine
       - Qatar
       - Saudi Arabia
       - Syria
       - Tunisia
       - Yemen
   - WITCH 6.0|Mexico:
-      countries: Mexico
+      countries:
+      - Mexico
   - WITCH 6.0|Australia, New Zealand, and Oceania islands:
       countries:
       - New Zealand
       - Australia
       - Christmas Island
       - Cook Islands
-      - Heard & McDonald Islands
+      - Heard Island and McDonald Islands
       - Norfolk Island
       - Niue
       - Nauru
-      - Pitcairn Islands
+      - Pitcairn
       - Tokelau
       - Tuvalu
-      - United States Minor Outlying Islands (the)
-      - Wallis & Futuna
+      - United States Minor Outlying Islands
+      - Wallis and Futuna
       - Fiji
       - Papua New Guinea
-      - Micronesia (Federated States of)
+      - Micronesia
       - Guam
       - American Samoa
       - Timor-Leste
@@ -190,18 +194,19 @@
       - Pakistan
   - WITCH 6.0|South East Asia:
       countries:
-      - Brunei
+      - Brunei Darussalam
       - Cocos (Keeling) Islands
       - Cambodia
       - Laos
-      - Myanmar (Burma)
+      - Myanmar
       - Malaysia
       - Philippines
       - Singapore
       - Thailand
-      - Vietnam
+      - Viet Nam
   - WITCH 6.0|South Africa:
-      countries: South Africa
+      countries:
+      - South Africa
   - WITCH 6.0|Sub Saharan Africa:
       countries:
       - Djibouti
@@ -214,13 +219,13 @@
       - Burkina Faso
       - Burundi
       - Cameroon
-      - Cape Verde
+      - Cabo Verde
       - Central African Republic
       - Chad
       - Comoros
-      - Congo - Brazzaville
-      - Congo - Kinshasa
-      - Côte d’Ivoire
+      - Congo
+      - Democratic Republic of the Congo
+      - Côte d'Ivoire
       - Equatorial Guinea
       - Eritrea
       - Ethiopia
@@ -244,10 +249,10 @@
       - Nigeria
       - Réunion
       - Rwanda
-      - São Tomé & Príncipe
+      - Sao Tome and Principe
       - Senegal
       - Seychelles
-      - St. Helena
+      - Saint Helena, Ascension and Tristan da Cunha
       - Sierra Leone
       - Somalia
       - South Sudan
@@ -268,12 +273,13 @@
       - Kazakhstan
       - Kyrgyzstan
       - Moldova
-      - Russia
+      - Russian Federation
       - Tajikistan
       - Turkey
       - Turkmenistan
       - Ukraine
       - Uzbekistan
   - WITCH 6.0|United States of America:
-      countries: United States
+      countries:
+      - United States
 
