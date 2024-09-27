@@ -57,7 +57,7 @@
       - Monaco
       - Svalbard and Jan Mayen
       - San Marino
-      - Vatican City
+      - Vatican
       - Bosnia and Herzegovina
       - Albania
       - North Macedonia
@@ -101,7 +101,7 @@
       - Dominica
       - Dominican Republic
       - Ecuador
-      - Falkland Islands
+      - Falkland Islands (Malvinas)
       - Guadeloupe
       - Grenada
       - Guatemala
@@ -125,7 +125,7 @@
       - Sint Maarten (Dutch part)
       - Trinidad and Tobago
       - Uruguay
-      - Saint Vincent and Grenadines
+      - Saint Vincent and the Grenadines
       - Venezuela
   - WITCH 6.0|Middle East and North Africa:
       countries:
@@ -162,10 +162,10 @@
       - Norfolk Island
       - Niue
       - Nauru
-      - Pitcairn Islands
+      - Pitcairn
       - Tokelau
       - Tuvalu
-      - United States Minor Outlying Islands (the)
+      - United States Minor Outlying Islands
       - Wallis and Futuna
       - Fiji
       - Papua New Guinea
@@ -194,7 +194,7 @@
       - Pakistan
   - WITCH 6.0|South East Asia:
       countries:
-      - Brunei
+      - Brunei Darussalam
       - Cocos (Keeling) Islands
       - Cambodia
       - Laos
@@ -219,7 +219,7 @@
       - Burkina Faso
       - Burundi
       - Cameroon
-      - Cape Verde
+      - Cabo Verde
       - Central African Republic
       - Chad
       - Comoros
@@ -273,7 +273,7 @@
       - Kazakhstan
       - Kyrgyzstan
       - Moldova
-      - Russia
+      - Russian Federation
       - Tajikistan
       - Turkey
       - Turkmenistan
