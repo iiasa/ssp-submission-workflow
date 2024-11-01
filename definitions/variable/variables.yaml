@@ -15,34 +15,10 @@
     description: "{Level-2 Species} emissions from fuel combustion in other
       transportation sectors (please provide a definition of other sources in this
       category in the 'comments' tab)"
-- Emissions|{Level-2 Species without CO2}|Energy|Supply|Electricity:
-    unit: "{Level-2 Species without CO2}"
-    description: "{Level-2 Species without CO2} emissions from electricity and CHP
-      production and distribution (IPCC category 1A1ai and 1A1aii)"
-- Emissions|{Level-2 Species without CO2}|Energy|Supply|Heat:
-    unit: "{Level-2 Species without CO2}"
-    description: "{Level-2 Species without CO2} emissions from heat production and
-      distribution (IPCC category 1A1aiii)"
 - Emissions|{Level-2 Species}|Energy|Supply|Electricity and Heat:
     unit: "{Level-2 Species}"
     description: "{Level-2 Species} emissions from electricity and heat production and
       distribution (IPCC category 1A1a)"
-- Emissions|{Level-2 Species without CO2}|Energy|Supply|Liquids:
-    unit: "{Level-2 Species without CO2}"
-    description: "{Level-2 Species without CO2} emissions from fuel combustion and
-      fugitive emissions from fuels: liquid fuel extraction and processing (e.g. oil
-      production, refineries, synfuel production, IPCC category 1A1b, parts of 1A1cii,
-      1B2a)"
-- Emissions|{Level-2 Species without CO2}|Energy|Supply|Solids:
-    unit: "{Level-2 Species without CO2}"
-    description: "{Level-2 Species without CO2} emissions from fuel combustion and
-      fugitive emissions from fuels: solid fuel extraction and processing (IPCC category
-      1A1ci, parts of 1A1cii, 1B1)"
-- Emissions|{Level-2 Species without CO2}|Energy|Supply|Gases:
-    unit: "{Level-2 Species without CO2}"
-    description: "{Level-2 Species without CO2} emissions from fuel combustion and
-      fugitive emissions from fuels: gaseous fuel extraction and processing (e.g.
-      natural gas extraction production, IPCC category 1B2b, parts of 1A1cii)"
 - Emissions|{Level-2 Species}|Energy|Supply|Liquids|Combustion:
     unit: "{Level-2 Species}"
     description: "{Level-2 Species} emissions from fuel combustion: liquid fuel
