@@ -13,3 +13,4 @@ definitions:
     repository: common-definitions
 mappings:
   repository: common-definitions
+illegal_characters: [ ]
