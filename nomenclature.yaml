@@ -5,7 +5,7 @@ dimensions:
 repositories:
   common-definitions:
     url: https://github.com/IAMconsortium/common-definitions.git/
-    hash: 99ec80c0e8473f6b172b07e18982bfdc4ae1a4d5
+    hash: d15f81a1c9670ddf6562aaa9a88224ba716f1ac9
 definitions:
   variable:
     repository: common-definitions
