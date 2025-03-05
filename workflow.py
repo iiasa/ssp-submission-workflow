@@ -38,6 +38,11 @@ def main(df: pyam.IamDataFrame) -> pyam.IamDataFrame:
             dsd=dsd,
         ),
     )
+
+    # Quickfix: make dimensionless variables (unit="") work with legacy ixmp database
+    df.rename(unit={"": "-"}, inplace=True)
+
+    # Run MAGICC processing if available
     if FOUND_MAGICC:
         magicc_processor = MAGICCProcessor(
             run_type="complete",
