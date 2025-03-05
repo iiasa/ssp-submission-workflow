@@ -40,7 +40,7 @@ def main(df: pyam.IamDataFrame) -> pyam.IamDataFrame:
     )
 
     # Quickfix: make dimensionless variables (unit="") work with legacy ixmp database
-    df.rename(unit={"": "-"}, inplace=True)
+    processed_df.rename(unit={"": "-"}, inplace=True)
 
     # Run MAGICC processing if available
     if FOUND_MAGICC:
