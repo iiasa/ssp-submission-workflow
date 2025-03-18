@@ -1,7 +1,13 @@
 - ScenarioMIP:
-    - High Emissions
-    - Medium Emissions
-    - Medium-Low Emissions
-    - Low Emissions
-    - Very Low with Limited Overshoot
-    - Very Low after High Overshoot
+    - H:
+        description: "High Emissions"
+    - M:
+        description: "Medium Emissions"
+    - ML:
+        description: "Medium-Low Emissions"
+    - L:
+        description: "Low Emissions"
+    - VLLO:
+        description: "Very Low with Limited Overshoot"
+    - VLHO:
+        description: "Very Low after High Overshoot"
