@@ -9,6 +9,37 @@ definitions:
   variable:
     repository: common-definitions
   region:
-    repository: common-definitions
+    repository:
+      name: common-definitions
+      include:
+        - hierarchy: common
+        - hierarchy: R5
+        - hierarchy: R9
+        - hierarchy: R10
+        - hierarchy: G20 Members
+        - hierarchy: MESSAGEix-GLOBIOM 2.1-R12
+        - hierarchy: AIM 3.0
+        - hierarchy: COFFEE 1.5
+        - hierarchy: REMIND 3.1
+        - hierarchy: GCAM 7.1
+        - hierarchy: IMAGE 3.4
+        - hierarchy: AIM/Hub-Global 2.4
+        - hierarchy: REMIND-MAgPIE 3.4-4.8
+        - hierarchy: WITCH 6.0
+        - hierarchy: MESSAGEix-GLOBIOM-GAINS 2.1-R12
+        - hierarchy: REMIND-MAgPIE 3.5-4.10
 mappings:
-  repository: common-definitions
+  repository:
+    name: common-definitions
+    include:
+      - MESSAGEix-GLOBIOM 2.1-M-R12
+      - AIM 3.0
+      - COFFEE 1.5
+      - REMIND 3.1
+      - GCAM 7.1 scenarioMIP
+      - IMAGE 3.4
+      - AIM/Hub-Global 2.4
+      - REMIND-MAgPIE 3.4-4.8
+      - WITCH 6.0
+      - MESSAGEix-GLOBIOM-GAINS 2.1-M-R12
+      - REMIND-MAgPIE 3.5-4.10
