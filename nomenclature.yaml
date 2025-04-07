@@ -19,7 +19,7 @@ definitions:
         - hierarchy: G20 Members
         - hierarchy: MESSAGEix-GLOBIOM 2.1-R12
         - hierarchy: AIM 3.0
-        - hierarchy: COFFEE 1.5
+        - hierarchy: COFFEE 1.6
         - hierarchy: REMIND 3.1
         - hierarchy: GCAM 7.1
         - hierarchy: IMAGE 3.4
@@ -34,7 +34,7 @@ mappings:
     include:
       - MESSAGEix-GLOBIOM 2.1-M-R12
       - AIM 3.0
-      - COFFEE 1.5
+      - COFFEE 1.6
       - REMIND 3.1
       - GCAM 7.1 scenarioMIP
       - IMAGE 3.4
