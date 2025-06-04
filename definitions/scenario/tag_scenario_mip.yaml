@@ -1,6 +1,8 @@
 - ScenarioMIP:
     - H:
         description: "High Emissions"
+    - HL:
+        description: "High-Low Emissions"
     - M:
         description: "Medium Emissions"
     - ML:
