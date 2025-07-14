@@ -28,6 +28,7 @@ definitions:
         - hierarchy: WITCH 6.0
         - hierarchy: MESSAGEix-GLOBIOM-GAINS 2.1-R12
         - hierarchy: REMIND-MAgPIE 3.5-4.10
+        - hierarchy: REMIND-MAgPIE 3.5-4.11
 mappings:
   repository:
     name: common-definitions
@@ -43,3 +44,4 @@ mappings:
       - WITCH 6.0
       - MESSAGEix-GLOBIOM-GAINS 2.1-M-R12
       - REMIND-MAgPIE 3.5-4.10
+      - REMIND-MAgPIE 3.5-4.11
