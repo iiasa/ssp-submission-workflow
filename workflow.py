@@ -13,13 +13,14 @@ except ImportError:
     FOUND_MAGICC = False
 
 
-logging.basicConfig(format="%(asctime)s - %(message)s", level=logging.INFO)
-logFormatter = logging.Formatter("%(asctime)s [%(levelname)-5.5s] %(message)s")
+#logging.basicConfig(format="%(asctime)s - %(message)s", level=logging.INFO)
+#logFormatter = logging.Formatter("%(asctime)s [%(levelname)-5.5s] %(message)s")
 log = logging.getLogger()
-log.handlers.clear()
-consoleHandler = logging.StreamHandler(sys.stdout)
-consoleHandler.setFormatter(logFormatter)
-log.addHandler(consoleHandler)
+log.setLevel(logging.INFO)
+#log.handlers.clear()
+#consoleHandler = logging.StreamHandler(sys.stdout)
+#consoleHandler.setFormatter(logFormatter)
+#log.addHandler(consoleHandler)
 
 
 here = Path(__file__).absolute().parent
