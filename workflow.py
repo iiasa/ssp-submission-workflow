@@ -1,9 +1,9 @@
 import logging
-import sys
 from pathlib import Path
+
+import ixmp_server_workflow  # noqa
 import pyam
 from nomenclature import DataStructureDefinition, RegionProcessor, process
-
 
 try:
     from climate_processor import MAGICCProcessor
@@ -13,15 +13,7 @@ except ImportError:
     FOUND_MAGICC = False
 
 
-#logging.basicConfig(format="%(asctime)s - %(message)s", level=logging.INFO)
-#logFormatter = logging.Formatter("%(asctime)s [%(levelname)-5.5s] %(message)s")
-log = logging.getLogger()
-log.setLevel(logging.INFO)
-#log.handlers.clear()
-#consoleHandler = logging.StreamHandler(sys.stdout)
-#consoleHandler.setFormatter(logFormatter)
-#log.addHandler(consoleHandler)
-
+logger = logging.getLogger("ssp-submission-workflow")
 
 here = Path(__file__).absolute().parent
 
@@ -60,7 +52,7 @@ def main(df: pyam.IamDataFrame) -> pyam.IamDataFrame:
         try:
             return magicc_processor.apply(processed_df)
         except Exception as e:
-            log.warning(
+            logger.warning(
                 (
                     "Error with MAGICC processing, repeat processing without MAGICC, "
                     f"details: {e}"
