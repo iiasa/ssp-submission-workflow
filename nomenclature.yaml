@@ -30,6 +30,7 @@ definitions:
         - hierarchy: MESSAGEix-GLOBIOM-GAINS 2.1-R12
         - hierarchy: REMIND-MAgPIE 3.5-4.10
         - hierarchy: REMIND-MAgPIE 3.5-4.11
+        - hierarchy: GCAM 8s
 mappings:
   repository:
     name: common-definitions
@@ -46,3 +47,4 @@ mappings:
       - MESSAGEix-GLOBIOM-GAINS 2.1-M-R12
       - REMIND-MAgPIE 3.5-4.10
       - REMIND-MAgPIE 3.5-4.11
+      - GCAM 8s
